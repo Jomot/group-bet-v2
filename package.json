@@ -1,0 +1,17 @@
+{
+  "name": "group-bet-v2",
+  "version": "1.0.0",
+  "description": "group bet v2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npx src/Test.ts"
+  },
+  "author": "tom jones",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "prettier": "^3.3.3",
+    "typescript": "^5.5.4"
+  }
+}

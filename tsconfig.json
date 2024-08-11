@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "ESNext", // Use ESNext, ES2020, or ES6
+    "target": "ESNext", // Use ESNext, ES2020, or ES6
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true
+  }
+}
