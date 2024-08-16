@@ -1,0 +1,182 @@
+[
+  {
+    "id": 39,
+    "name": "Premier League"
+  },
+  {
+    "id": 40,
+    "name": "Championship"
+  },
+  {
+    "id": 46,
+    "name": "EFL Trophy"
+  },
+  {
+    "id": 45,
+    "name": "FA Cup"
+  },
+  {
+    "id": 47,
+    "name": "FA Trophy"
+  },
+  {
+    "id": 48,
+    "name": "League Cup"
+  },
+  {
+    "id": 43,
+    "name": "National League"
+  },
+  {
+    "id": 41,
+    "name": "League One"
+  },
+  {
+    "id": 42,
+    "name": "League Two"
+  },
+  {
+    "id": 528,
+    "name": "Community Shield"
+  },
+  {
+    "id": 44,
+    "name": "FA WSL"
+  },
+  {
+    "id": 49,
+    "name": "National League - Play-offs"
+  },
+  {
+    "id": 50,
+    "name": "National League - North"
+  },
+  {
+    "id": 51,
+    "name": "National League - South"
+  },
+  {
+    "id": 52,
+    "name": "Non League Div One - Isthmian North"
+  },
+  {
+    "id": 53,
+    "name": "Non League Div One - Isthmian South Central"
+  },
+  {
+    "id": 54,
+    "name": "Non League Div One - Northern West"
+  },
+  {
+    "id": 55,
+    "name": "Non League Div One - Northern Midlands"
+  },
+  {
+    "id": 56,
+    "name": "Non League Div One - Southern South"
+  },
+  {
+    "id": 57,
+    "name": "Non League Div One - Isthmian South East"
+  },
+  {
+    "id": 58,
+    "name": "Non League Premier - Isthmian"
+  },
+  {
+    "id": 59,
+    "name": "Non League Premier - Northern"
+  },
+  {
+    "id": 60,
+    "name": "Non League Premier - Southern South"
+  },
+  {
+    "id": 698,
+    "name": "FA Women's Cup"
+  },
+  {
+    "id": 670,
+    "name": "Community Shield Women"
+  },
+  {
+    "id": 695,
+    "name": "U18 Premier League - North"
+  },
+  {
+    "id": 696,
+    "name": "U18 Premier League - South"
+  },
+  {
+    "id": 697,
+    "name": "WSL Cup"
+  },
+  {
+    "id": 699,
+    "name": "Women's Championship"
+  },
+  {
+    "id": 702,
+    "name": "Premier League 2 Division One"
+  },
+  {
+    "id": 703,
+    "name": "Professional Development League"
+  },
+  {
+    "id": 871,
+    "name": "Premier League Cup"
+  },
+  {
+    "id": 931,
+    "name": "Non League Premier - Southern Central"
+  },
+  {
+    "id": 932,
+    "name": "Non League Div One - Northern East"
+  },
+  {
+    "id": 933,
+    "name": "Non League Div One - Southern Central"
+  },
+  {
+    "id": 984,
+    "name": "National League - North - Play-offs"
+  },
+  {
+    "id": 985,
+    "name": "National League - South - Play-offs"
+  },
+  {
+    "id": 986,
+    "name": "Non League Div One - Play-offs"
+  },
+  {
+    "id": 987,
+    "name": "U18 Premier League - Championship"
+  },
+  {
+    "id": 993,
+    "name": "Non League Premier - Isthmian - Play-offs"
+  },
+  {
+    "id": 994,
+    "name": "Non League Premier - Northern - Play-offs"
+  },
+  {
+    "id": 995,
+    "name": "Non League Premier - Southern South - Play-offs"
+  },
+  {
+    "id": 996,
+    "name": "Non League Premier - Southern Central - Play-offs"
+  },
+  {
+    "id": 1022,
+    "name": "Premier League - Summer Series"
+  },
+  {
+    "id": 1068,
+    "name": "FA Youth Cup"
+  }
+]
