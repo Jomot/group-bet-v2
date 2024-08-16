@@ -5,13 +5,14 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "npx src/Test.ts"
+    "build": "tsc",
+    "start": "node src/index.js"
   },
   "author": "tom jones",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^3.3.2",
-    "prettier": "^3.3.3",
-    "typescript": "^5.5.4"
-  }
+    "prettier": "^3.3.3"
+  },
+  "devDependencies": {}
 }
