@@ -16,7 +16,9 @@ async function getFixturesByDate(date) {
 
   const leaguesToFilter = leagueData.map((league) => league.id);
   const fixtures = responseData.filter((item) => leaguesToFilter.includes(item.league.id));
-  console.log(fixtures);
+
+  const example = fixtures[0];
+  console.log(example);
 }
 
-export { getFixturesByDate };
+export default getFixturesByDate;
